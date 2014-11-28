@@ -57,6 +57,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ritou/p5-plack-middleware-session-simple-jwscookie/issues"
+      },
+      "homepage" : "https://github.com/ritou/p5-plack-middleware-session-simple-jwscookie",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ritou/p5-plack-middleware-session-simple-jwscookie.git",
+         "web" : "https://github.com/ritou/p5-plack-middleware-session-simple-jwscookie"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:RITOU"
 }
