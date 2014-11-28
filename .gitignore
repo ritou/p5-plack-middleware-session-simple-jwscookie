@@ -28,3 +28,5 @@ cover_db/
 MYMETA.*
 
 /Plack-Middleware-Session-Simple-JWSCookie-*
+
+/cpanfile.snapshot
